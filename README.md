@@ -282,7 +282,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji | :blush:
 2f | Link to `commit #4 from Atom` | [`commit #4 from Atom`](https://github.com/omundy/learn-git-milestones/commit/8f4ad497b6914d5a1819deeaa1beae8343f8de0a)
 3a | Link to `my-awesome-project` github.com repo page | [`my-awesome-project`](https://github.com/bryce-ka/my-aweome-project)
-4a | Link to `my-awesome-project` github.io "project site" | [I think theres a paywall](https://github.com/bryce-ka/my-aweome-project/settings/pages)
+4a | Link to `my-awesome-project` github.io "project site" | [project site](https://bryce-ka.github.io/learn-git-milestones/)
 
 
 
